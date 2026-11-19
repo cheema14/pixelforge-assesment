@@ -6,7 +6,7 @@ Lumina is an AI image studio built with **Laravel 13**, **Inertia v2** and **Vue
 
 | Layer | Choice |
 | --- | --- |
-| PHP | 8.4 (composer requires `^8.3`) |
+| PHP | 8.4 (composer requires `^8.4`) |
 | Framework | Laravel 13 |
 | Frontend | Vue 3 + TypeScript + Inertia v2 + Tailwind CSS 3 |
 | Auth | Breeze |
