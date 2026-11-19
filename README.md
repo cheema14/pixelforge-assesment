@@ -62,7 +62,7 @@ Nothing else is required — pricing falls back to a bundled table when `GET /v1
 
 ### Demo accounts
 
-`php artisan migrate --seed` creates two verified accounts, both with the password `password`:
+`php artisan migrate --seed` creates two verified accounts, both with the password `password`: `)MN^@c--_!90876GQWX>_!$%jhy`
 
 | Account | Access |
 | --- | --- |
